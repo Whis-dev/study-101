@@ -12,3 +12,4 @@ Algorithm study
     - [03 : Programmers - 최솟값 만들기(Javascript)](2020/04/(03)Programmers-최솟값만들기.md)
     - [06 : Programmers - 최댓값과 최솟값(Javascript)](2020/04/(06)Programmers-최댓값과최솟값.md)
     - [07 : Programmers - 다음 큰 숫자(Javascript)](2020/04/(07)Programmers-다음큰숫자.md)
+    - [08 : Programmers - N개의 최소공배수(Javascript)](2020/04/(08)Programmers-N개의최소공배수.md)
