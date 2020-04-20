@@ -16,3 +16,5 @@ Algorithm study
     - [09 : Programmers - 시저암호(Javascript)](2020/04/(09)Programmers-시저암호.md)
     - [10 : Programmers - 체육복(Javascript)](2020/04/(10)Programmers-체육복.md)
     - [17 : Programmers - 완주하지 못한 선수(Javascript, Python3)](2020/04/(17)Programmers-완주하지못한선수.md)
+    - [20 : Programmers - 두 정수 사이의 합(Javascript, Python3)](2020/04/(20)Programmers-두정수사이의합.md)
+    - [20 : Programmers - K번째 수(Javascript, Python3)](2020/04/(20)Programmers-K번째수.md)
