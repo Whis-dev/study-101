@@ -22,3 +22,4 @@ Algorithm study
     - [22 : Programmers - 문자열 내 p와 y의 개수(Javascript, Python3)](2020/04/(22)Programmers-문자열내p와y의개수.md)
     - [24 : Programmers - 문자열 다루기 기본(Javascript, Python3)](2020/04/(24)Programmers-문자열다루기기본.md)
     - [28 : Programmers - 같은 숫자는 싫어(Javascript, Python3)](2020/04/(28)Programmers-같은숫자는싫어.md)
+    - [29 : Programmers - 문자열 내 마음대로 정렬하기(Javascript, Python3)](2020/04/(29)Programmers-문자열내마음대로정렬하기.md)
