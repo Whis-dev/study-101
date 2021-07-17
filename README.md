@@ -23,3 +23,7 @@ Algorithm study
     - [24 : Programmers - 문자열 다루기 기본(Javascript, Python3)](2020/04/(24)Programmers-문자열다루기기본.md)
     - [28 : Programmers - 같은 숫자는 싫어(Javascript, Python3)](2020/04/(28)Programmers-같은숫자는싫어.md)
     - [29 : Programmers - 문자열 내 마음대로 정렬하기(Javascript, Python3)](2020/04/(29)Programmers-문자열내마음대로정렬하기.md)
+
+- 2021
+  - 07
+    - [18 : Programmers - 키패드 누르기(Javascript)](2021/07/(18)Programmers-키패드누르기.md)
