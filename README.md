@@ -30,3 +30,4 @@ Algorithm study
   - 07
     - [18 : Programmers - 키패드 누르기(Javascript)](2021/07/(18)Programmers-키패드누르기.md)
     - [18 : Programmers - 실패율(Javascript)](2021/07/(18)Programmers-실패율.md)
+    - [18 : Programmers - 비밀지도(Javascript)](2021/07/(18)Programmers-비밀지도.md)
