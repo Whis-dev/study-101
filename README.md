@@ -43,3 +43,5 @@ Algorithm study
     - [30 : Programmers - 캐시(Javascript)](<2021/07/(30)Programmers-캐시.md>)
     - [31 : Programmers - 압축(Javascript)](<2021/07/(31)Programmers-압축.md>)
     - [31 : Programmers - 쿼드압축 후 개수 세기(Javascript)](<2021/07/(31)Programmers-쿼드압축후개수세기.md>)
+  - 08
+    - [01 : Programmers - 이진 변환 반복하기(Javascript)](<2021/08/(01)Programmers-이진변환반복하기.md>)
